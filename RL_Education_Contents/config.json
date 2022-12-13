@@ -1,0 +1,17 @@
+{
+  "rule": {
+    "game_time": 10
+  },
+  "team_a": {
+    "name": "teamA",
+    "executable": "examples/player_template_py/player_template.py"
+  },
+  "team_b": {
+    "name": "teamB",
+    "executable": "examples/player_random-walk_py/player_random-walk.py"
+  },
+  "tool": {
+    "repeat": true,
+    "multi_view": false
+  }
+}
